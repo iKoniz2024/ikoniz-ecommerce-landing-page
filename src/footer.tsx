@@ -8,7 +8,7 @@ const Footer = () => {
         <img src={logo} alt="Propellent Logo" className="w-[50px] h-[50px]" />
 
         <h2 className="text-[22px] leading-[24.2px] tracking-[-0.6px] poppins-medium">
-          Propellent
+          Ikoniz
         </h2>
       </Link>
 
@@ -20,7 +20,7 @@ const Footer = () => {
             target="_blank"
             className="underline text-[#878787] hover:text-black hover:no-underline transition-all cursor-pointer duration-300 ml-[5px]"
           >
-            Adrea Montinni
+            Ikoniz Limited
           </a>
         </p>
         <p>
@@ -30,9 +30,9 @@ const Footer = () => {
             target="_blank"
             className="underline text-[#878787] hover:text-black hover:no-underline transition-all cursor-pointer duration-300 mx-[5px]"
           >
-            Henry Jobel
+            Ikoniz Web Dev Team
           </a>
-          - Copyright 2024
+          - Copyright 2025
         </p>
       </div>
 
