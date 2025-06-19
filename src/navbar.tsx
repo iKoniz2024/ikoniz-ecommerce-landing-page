@@ -45,7 +45,7 @@ const Navbar = () => {
         <img src={logo} alt="Propellent Logo" className="w-[50px] h-[50px]" />
 
         <h2 className="text-[22px] leading-[24.2px] tracking-[-0.6px] poppins-medium md:hidden lg:block" >
-          Propellent
+          Ikoniz Limited
         </h2>
       </Link>
 
